@@ -1,0 +1,2 @@
+- create .env
+- create accounts.json
